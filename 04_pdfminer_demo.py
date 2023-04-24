@@ -39,7 +39,7 @@ from PIL import Image
 import io
 from pathlib import Path  # it's just my favorite way to handle files
 
-pdf_path = r"C:\Users\M2S\Desktop\Workspace\PythonWorkspace\playground\sample.pdf"
+pdf_path = r"/home/ljy/Desktop/Workspace/PythonWorkspace/Playground/sample.pdf"
 
 
 # PART 1: GET LTBOXES COORDINATES IN THE IMAGE ----------------------
@@ -121,27 +121,34 @@ dpi = 200/72
 vertical_shift = 5  # I don't know, but it's need to shift a bit
 page_height = int(firstpage_size["height"] * dpi)
 
-# loop through boxes (we'll process only first page for now)
-for i, _ in enumerate(boxes_data):
 
-    # first box data
-    startX, startY, endX, endY, text = boxes_data[i].values()
 
-    # correction PDF --> PIL
-    startY = page_height - int(startY * dpi) - vertical_shift
-    endY = page_height - int(endY * dpi) - vertical_shift
-    startX = int(startX * dpi)
-    endX = int(endX * dpi)
-    startY, endY = endY, startY
+with open('result.txt', 'w') as fp:
+    fp.write(f'len(boxes_data): {len(boxes_data)}')
+    fp.write(f'boxes_data: {boxes_data}\n\n\n')
 
-    # turn image to array
-    image_array = np.array(firstpage_image)
-    # get cropped box
-    box = image_array[startY:endY, startX:endX, :]
-    convert2pil_image = PIL.Image.fromarray(box)
-    # show cropped box image
-    # convert2pil_image.show()
-    png = "crop_" + str(i) + ".png"
-    convert2pil_image.save(png)
-    # print this does not match with the text, means there's an error
-    print(text)
+    # loop through boxes (we'll process only first page for now)
+    for i, _ in enumerate(boxes_data):
+
+        # first box data
+        startX, startY, endX, endY, text = boxes_data[i].values()
+
+        # correction PDF --> PIL
+        startY = page_height - int(startY * dpi) - vertical_shift
+        endY = page_height - int(endY * dpi) - vertical_shift
+        startX = int(startX * dpi)
+        endX = int(endX * dpi)
+        startY, endY = endY, startY
+
+        # turn image to array
+        image_array = np.array(firstpage_image)
+        # get cropped box
+        box = image_array[startY:endY, startX:endX, :]
+        convert2pil_image = PIL.Image.fromarray(box)
+        # show cropped box image
+        # convert2pil_image.show()
+        png = "crop_" + str(i) + ".png"
+        convert2pil_image.save(png)
+        # print this does not match with the text, means there's an error
+        print(startX, startY, endX, endY, text)
+        fp.write(f'==>{startX}, {startY}, {endX}, {endY}: {text}')
