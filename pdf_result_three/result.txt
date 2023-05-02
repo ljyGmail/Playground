@@ -1,0 +1,88 @@
+len(boxes_data): 36boxes_data: [{'startX': 28, 'startY': 613, 'endX': 241, 'endY': 687, 'text': 'Seoul Guarantee Insurance Company\nReinsurance Accounting Dept.\nSeoul Guarantee Insurance Building                \n136-74 Yon-ji dong                                \nJong-ro gu                                        \nSeoul\nKOREA, REPUBLIC OF\n'}, {'startX': 20, 'startY': 579, 'endX': 85, 'endY': 587, 'text': 'Coverage Details\n'}, {'startX': 20, 'startY': 518, 'endX': 87, 'endY': 571, 'text': 'Contract With:\nName:\nPeriod:\nLimit:\nRetention:\nLine of Business:\n'}, {'startX': 119, 'startY': 518, 'endX': 258, 'endY': 571, 'text': 'S. Shlomo Insurance Company Limited\nCat XL - ILS 463M XS ILS 4M\n01 Jan 2022 through 31 Dec 2022\nILS 463,800,000.00\nILS 4,000,000.00\nProperty\n'}, {'startX': 20, 'startY': 484, 'endX': 131, 'endY': 496, 'text': 'Transaction Details\n'}, {'startX': 20, 'startY': 466, 'endX': 143, 'endY': 474, 'text': 'Deposit Premium at 01 Mar 2022\n'}, {'startX': 28, 'startY': 442, 'endX': 89, 'endY': 450, 'text': 'Deposit Premium\n'}, {'startX': 28, 'startY': 408, 'endX': 115, 'endY': 416, 'text': 'Brokerage / Fee Amount\n'}, {'startX': 248, 'startY': 408, 'endX': 329, 'endY': 416, 'text': '(26,945.06 @ 10.00%)\n'}, {'startX': 20, 'startY': 386, 'endX': 207, 'endY': 394, 'text': 'Net Due To Seoul Guarantee Insurance Company\n'}, {'startX': 367, 'startY': 627, 'endX': 556, 'endY': 688, 'text': 'Deposit Premium\nAt 01 Mar 2022\nILS 24,250.56 Cr\nBalance Due To Seoul Guarantee Insurance \nCompany\n'}, {'startX': 418, 'startY': 604, 'endX': 464, 'endY': 621, 'text': 'Invoice No:\nInvoice Date:\n'}, {'startX': 512, 'startY': 604, 'endX': 556, 'endY': 621, 'text': '10355569\n26 Jan 2022\n'}, {'startX': 359, 'startY': 579, 'endX': 444, 'endY': 587, 'text': 'Reference Information\n'}, {'startX': 359, 'startY': 545, 'endX': 408, 'endY': 571, 'text': 'UMR:\nYour Ref No:\nOur Ref No:\n'}, {'startX': 436, 'startY': 545, 'endX': 525, 'endY': 571, 'text': 'B087522N2U5011\nTBA\nN2U-5011E1-2201A-8Y4\n'}, {'startX': 411, 'startY': 457, 'endX': 432, 'endY': 465, 'text': '100%\n'}, {'startX': 385, 'startY': 442, 'endX': 431, 'endY': 450, 'text': '1,796,337.50\n'}, {'startX': 473, 'startY': 484, 'endX': 552, 'endY': 496, 'text': 'Currency: ILS\n'}, {'startX': 484, 'startY': 457, 'endX': 556, 'endY': 474, 'text': '1.50%\nof a 100.00% Order\n'}, {'startX': 510, 'startY': 442, 'endX': 556, 'endY': 450, 'text': '26,945.06 Cr\n'}, {'startX': 514, 'startY': 408, 'endX': 556, 'endY': 416, 'text': '2,694.50 Dr\n'}, {'startX': 509, 'startY': 386, 'endX': 556, 'endY': 394, 'text': '24,250.56 Cr\n'}, {'startX': 20, 'startY': 337, 'endX': 83, 'endY': 345, 'text': 'Premium Details\n'}, {'startX': 20, 'startY': 287, 'endX': 69, 'endY': 328, 'text': 'Currency:\nTotal:\nInstallments:\nType:\n'}, {'startX': 92, 'startY': 287, 'endX': 153, 'endY': 328, 'text': 'ILS\n3,592,675.00\n2\nDeposit Premium\n'}, {'startX': 263, 'startY': 298, 'endX': 308, 'endY': 328, 'text': 'Due Date\n01 Mar 2022\n01 Sep 2022\n'}, {'startX': 336, 'startY': 298, 'endX': 379, 'endY': 328, 'text': 'Invoice No.\n10355569\n10355570\n'}, {'startX': 434, 'startY': 287, 'endX': 480, 'endY': 328, 'text': 'Net Due\n24,250.56 Cr\n24,250.56 Cr\n48,501.12 Cr\n'}, {'startX': 20, 'startY': 223, 'endX': 189, 'endY': 231, 'text': 'Forwarded To: Reinsurance Accounting Dept.\n'}, {'startX': 301, 'startY': 223, 'endX': 333, 'endY': 231, 'text': 'Contact:\n'}, {'startX': 355, 'startY': 214, 'endX': 450, 'endY': 231, 'text': 'Rob Jarvis\nEMEA.Premium@aon.com\n'}, {'startX': 92, 'startY': 51, 'endX': 483, 'endY': 90, 'text': 'Aon UK Limited trading as Aon \nRegistered Office: The Aon Centre | The Leadenhall Building | 122 Leadenhall Street | London | EC3V 4AN \nRegistered in England & Wales No 210725 | VAT Registration No 480 8401 48 \nAon UK Limited is authorised and regulated by the Financial Conduct Authority \nCorrespondence Address: Aon | PO Box 730 | REDHILL | RH1 9FH | t +44 (0)20 7088 0044 | f +44 (0)20 7578 7001 | aon.com \n'}, {'startX': 515, 'startY': 40, 'endX': 556, 'endY': 48, 'text': 'Page 1 of 2\n'}, {'startX': 92, 'startY': 51, 'endX': 483, 'endY': 90, 'text': 'Aon UK Limited trading as Aon \nRegistered Office: The Aon Centre | The Leadenhall Building | 122 Leadenhall Street | London | EC3V 4AN \nRegistered in England & Wales No 210725 | VAT Registration No 480 8401 48 \nAon UK Limited is authorised and regulated by the Financial Conduct Authority \nCorrespondence Address: Aon | PO Box 730 | REDHILL | RH1 9FH | t +44 (0)20 7088 0044 | f +44 (0)20 7578 7001 | aon.com \n'}, {'startX': 515, 'startY': 40, 'endX': 556, 'endY': 48, 'text': 'Page 2 of 2\n'}]
+
+
+==>77, 287, 669, 493: Seoul Guarantee Insurance Company
+Reinsurance Accounting Dept.
+Seoul Guarantee Insurance Building                
+136-74 Yon-ji dong                                
+Jong-ro gu                                        
+Seoul
+KOREA, REPUBLIC OF
+==>55, 565, 236, 587: Coverage Details
+==>55, 609, 241, 757: Contract With:
+Name:
+Period:
+Limit:
+Retention:
+Line of Business:
+==>330, 609, 716, 757: S. Shlomo Insurance Company Limited
+Cat XL - ILS 463M XS ILS 4M
+01 Jan 2022 through 31 Dec 2022
+ILS 463,800,000.00
+ILS 4,000,000.00
+Property
+==>55, 818, 363, 851: Transaction Details
+==>55, 879, 397, 901: Deposit Premium at 01 Mar 2022
+==>77, 945, 247, 968: Deposit Premium
+==>77, 1040, 319, 1062: Brokerage / Fee Amount
+==>688, 1040, 913, 1062: (26,945.06 @ 10.00%)
+==>55, 1101, 575, 1123: Net Due To Seoul Guarantee Insurance Company
+==>1019, 284, 1544, 454: Deposit Premium
+At 01 Mar 2022
+ILS 24,250.56 Cr
+Balance Due To Seoul Guarantee Insurance 
+Company
+==>1161, 470, 1288, 518: Invoice No:
+Invoice Date:
+==>1422, 470, 1544, 518: 10355569
+26 Jan 2022
+==>997, 565, 1233, 587: Reference Information
+==>997, 609, 1133, 682: UMR:
+Your Ref No:
+Our Ref No:
+==>1211, 609, 1458, 682: B087522N2U5011
+TBA
+N2U-5011E1-2201A-8Y4
+==>1141, 904, 1200, 926: 100%
+==>1069, 945, 1197, 968: 1,796,337.50
+==>1313, 818, 1533, 851: Currency: ILS
+==>1344, 879, 1544, 926: 1.50%
+of a 100.00% Order
+==>1416, 945, 1544, 968: 26,945.06 Cr
+==>1427, 1040, 1544, 1062: 2,694.50 Dr
+==>1413, 1101, 1544, 1123: 24,250.56 Cr
+==>55, 1237, 230, 1259: Premium Details
+==>55, 1284, 191, 1398: Currency:
+Total:
+Installments:
+Type:
+==>255, 1284, 425, 1398: ILS
+3,592,675.00
+2
+Deposit Premium
+==>730, 1284, 855, 1368: Due Date
+01 Mar 2022
+01 Sep 2022
+==>933, 1284, 1052, 1368: Invoice No.
+10355569
+10355570
+==>1205, 1284, 1333, 1398: Net Due
+24,250.56 Cr
+24,250.56 Cr
+48,501.12 Cr
+==>55, 1554, 525, 1576: Forwarded To: Reinsurance Accounting Dept.
+==>836, 1554, 925, 1576: Contact:
+==>986, 1554, 1250, 1601: Rob Jarvis
+EMEA.Premium@aon.com
+==>255, 1945, 1341, 2054: Aon UK Limited trading as Aon 
+Registered Office: The Aon Centre | The Leadenhall Building | 122 Leadenhall Street | London | EC3V 4AN 
+Registered in England & Wales No 210725 | VAT Registration No 480 8401 48 
+Aon UK Limited is authorised and regulated by the Financial Conduct Authority 
+Correspondence Address: Aon | PO Box 730 | REDHILL | RH1 9FH | t +44 (0)20 7088 0044 | f +44 (0)20 7578 7001 | aon.com 
+==>1430, 2062, 1544, 2084: Page 1 of 2
+==>255, 1945, 1341, 2054: Aon UK Limited trading as Aon 
+Registered Office: The Aon Centre | The Leadenhall Building | 122 Leadenhall Street | London | EC3V 4AN 
+Registered in England & Wales No 210725 | VAT Registration No 480 8401 48 
+Aon UK Limited is authorised and regulated by the Financial Conduct Authority 
+Correspondence Address: Aon | PO Box 730 | REDHILL | RH1 9FH | t +44 (0)20 7088 0044 | f +44 (0)20 7578 7001 | aon.com 
+==>1430, 2062, 1544, 2084: Page 2 of 2

@@ -39,7 +39,8 @@ from PIL import Image
 import io
 from pathlib import Path  # it's just my favorite way to handle files
 
-pdf_path = r"/home/ljy/Desktop/Workspace/PythonWorkspace/Playground/sample.pdf"
+result_folder = Path('pdf_result_three')
+pdf_path = r"/home/ljy/Desktop/Workspace/PythonWorkspace/Playground/three.pdf"
 
 
 # PART 1: GET LTBOXES COORDINATES IN THE IMAGE ----------------------
@@ -114,7 +115,7 @@ firstpage_image = pdf2image.convert_from_path(
     pdf_path)[0]  # without 'size=...'
 # show first page with the right size (at least the one that pdfminer says)
 # firstpage_image.show()
-firstpage_image.save("firstpage.png")
+firstpage_image.save(result_folder / "firstpage.png")
 
 # the magic numbers
 dpi = 200/72
@@ -122,8 +123,7 @@ vertical_shift = 5  # I don't know, but it's need to shift a bit
 page_height = int(firstpage_size["height"] * dpi)
 
 
-
-with open('result.txt', 'w') as fp:
+with open(result_folder / 'result.txt', 'w') as fp:
     fp.write(f'len(boxes_data): {len(boxes_data)}')
     fp.write(f'boxes_data: {boxes_data}\n\n\n')
 
@@ -148,7 +148,7 @@ with open('result.txt', 'w') as fp:
         # show cropped box image
         # convert2pil_image.show()
         png = "crop_" + str(i) + ".png"
-        convert2pil_image.save(png)
+        convert2pil_image.save(result_folder / png)
         # print this does not match with the text, means there's an error
         print(startX, startY, endX, endY, text)
         fp.write(f'==>{startX}, {startY}, {endX}, {endY}: {text}')

@@ -1,0 +1,81 @@
+len(boxes_data): 77boxes_data: [{'startX': 10, 'startY': 778, 'endX': 426, 'endY': 810, 'text': 'Technical Account\nWillis Limited B080115865H17 / XOL QS Treaty [Received]\n'}, {'startX': 10, 'startY': 757, 'endX': 312, 'endY': 769, 'text': '1 Technical Account from Mark Browning [Mark_Browning@ajgre.com / +44 1473 207176]\n'}, {'startX': 23, 'startY': 737, 'endX': 75, 'endY': 744, 'text': 'Cedant / Insured\n'}, {'startX': 107, 'startY': 738, 'endX': 193, 'endY': 745, 'text': 'Arch Reinsurance Limited\n'}, {'startX': 23, 'startY': 722, 'endX': 69, 'endY': 729, 'text': 'Contract Name\n'}, {'startX': 23, 'startY': 706, 'endX': 57, 'endY': 713, 'text': 'Treaty FAC\n'}, {'startX': 107, 'startY': 722, 'endX': 119, 'endY': 729, 'text': 'N/A\n'}, {'startX': 107, 'startY': 706, 'endX': 128, 'endY': 713, 'text': 'Treaty\n'}, {'startX': 308, 'startY': 737, 'endX': 332, 'endY': 744, 'text': 'Created\n'}, {'startX': 308, 'startY': 722, 'endX': 336, 'endY': 729, 'text': 'Received\n'}, {'startX': 308, 'startY': 706, 'endX': 321, 'endY': 713, 'text': 'Due\n'}, {'startX': 392, 'startY': 738, 'endX': 433, 'endY': 745, 'text': '11 Aug 2022\n'}, {'startX': 392, 'startY': 722, 'endX': 453, 'endY': 729, 'text': '11 Aug 2022 23:07\n'}, {'startX': 392, 'startY': 706, 'endX': 433, 'endY': 713, 'text': '31 Aug 2022\n'}, {'startX': 23, 'startY': 690, 'endX': 72, 'endY': 697, 'text': 'Contract Nature\n'}, {'startX': 107, 'startY': 690, 'endX': 148, 'endY': 697, 'text': 'Proportional\n'}, {'startX': 308, 'startY': 690, 'endX': 358, 'endY': 697, 'text': 'Schema Version\n'}, {'startX': 392, 'startY': 690, 'endX': 418, 'endY': 697, 'text': '2016-10\n'}, {'startX': 23, 'startY': 674, 'endX': 58, 'endY': 681, 'text': 'Cover Type\n'}, {'startX': 107, 'startY': 674, 'endX': 171, 'endY': 681, 'text': 'Proportional Treaty\n'}, {'startX': 308, 'startY': 674, 'endX': 356, 'endY': 681, 'text': 'Contract Period\n'}, {'startX': 392, 'startY': 674, 'endX': 478, 'endY': 681, 'text': '01 Jan 2017 - 31 Dec 2017\n'}, {'startX': 23, 'startY': 658, 'endX': 75, 'endY': 665, 'text': 'Class of Business\n'}, {'startX': 107, 'startY': 659, 'endX': 129, 'endY': 666, 'text': 'Marine\n'}, {'startX': 308, 'startY': 658, 'endX': 374, 'endY': 665, 'text': 'Underwriter Share %\n'}, {'startX': 392, 'startY': 659, 'endX': 429, 'endY': 666, 'text': '10.0000000\n'}, {'startX': 23, 'startY': 643, 'endX': 76, 'endY': 650, 'text': 'Transaction Type\n'}, {'startX': 107, 'startY': 643, 'endX': 171, 'endY': 650, 'text': 'Account Statement\n'}, {'startX': 308, 'startY': 643, 'endX': 362, 'endY': 650, 'text': 'Broker Reference\n'}, {'startX': 392, 'startY': 643, 'endX': 501, 'endY': 650, 'text': '15865H17-000085TTY-669371632\n'}, {'startX': 23, 'startY': 627, 'endX': 75, 'endY': 634, 'text': 'Underwriter Year\n'}, {'startX': 107, 'startY': 627, 'endX': 122, 'endY': 634, 'text': '2017\n'}, {'startX': 23, 'startY': 611, 'endX': 95, 'endY': 618, 'text': 'Accounting Period Start\n'}, {'startX': 107, 'startY': 611, 'endX': 146, 'endY': 618, 'text': '01 Apr 2022\n'}, {'startX': 23, 'startY': 595, 'endX': 92, 'endY': 602, 'text': 'Accounting Period End\n'}, {'startX': 107, 'startY': 595, 'endX': 146, 'endY': 602, 'text': '30 Jun 2022\n'}, {'startX': 308, 'startY': 627, 'endX': 364, 'endY': 634, 'text': 'Section Reference\n'}, {'startX': 392, 'startY': 627, 'endX': 478, 'endY': 634, 'text': 'Quota Share Reinsurance\n'}, {'startX': 308, 'startY': 611, 'endX': 382, 'endY': 618, 'text': 'U/w Contract Reference\n'}, {'startX': 392, 'startY': 611, 'endX': 442, 'endY': 618, 'text': 'XOL QS Treaty\n'}, {'startX': 308, 'startY': 595, 'endX': 345, 'endY': 602, 'text': 'Underwriter\n'}, {'startX': 392, 'startY': 595, 'endX': 517, 'endY': 602, 'text': 'Seoul Guarantee Insurance Company\n'}, {'startX': 308, 'startY': 557, 'endX': 333, 'endY': 564, 'text': 'Address\n'}, {'startX': 392, 'startY': 580, 'endX': 501, 'endY': 587, 'text': 'DRI Enabled Please send Claims\n'}, {'startX': 392, 'startY': 565, 'endX': 544, 'endY': 572, 'text': 'Supporting Documents for Claims Settlement\n'}, {'startX': 392, 'startY': 550, 'endX': 451, 'endY': 557, 'text': 'only, to DRI Team\n'}, {'startX': 392, 'startY': 535, 'endX': 469, 'endY': 542, 'text': 'KOREA, REPUBLIC OF\n'}, {'startX': 308, 'startY': 512, 'endX': 355, 'endY': 519, 'text': 'Broker Address\n'}, {'startX': 392, 'startY': 504, 'endX': 426, 'endY': 511, 'text': 'KINGDOM\n'}, {'startX': 392, 'startY': 519, 'endX': 534, 'endY': 526, 'text': '51 Lime Street London EC3M 7DQ UNITED\n'}, {'startX': 10, 'startY': 466, 'endX': 90, 'endY': 481, 'text': '2 Account Information\n'}, {'startX': 23, 'startY': 446, 'endX': 73, 'endY': 453, 'text': 'Balance Amount\n'}, {'startX': 107, 'startY': 447, 'endX': 147, 'endY': 454, 'text': '-223.37 USD\n'}, {'startX': 308, 'startY': 446, 'endX': 370, 'endY': 453, 'text': 'Amt Share Indicator\n'}, {'startX': 392, 'startY': 447, 'endX': 448, 'endY': 454, 'text': "Receiver's share\n"}, {'startX': 38, 'startY': 429, 'endX': 77, 'endY': 436, 'text': 'Description\n'}, {'startX': 38, 'startY': 411, 'endX': 92, 'endY': 418, 'text': 'profit commission\n'}, {'startX': 38, 'startY': 392, 'endX': 65, 'endY': 399, 'text': 'premium\n'}, {'startX': 38, 'startY': 372, 'endX': 113, 'endY': 379, 'text': 'reinsurance commission\n'}, {'startX': 38, 'startY': 353, 'endX': 69, 'endY': 360, 'text': 'brokerage\n'}, {'startX': 304, 'startY': 429, 'endX': 371, 'endY': 436, 'text': 'Amount Currency\n'}, {'startX': 419, 'startY': 429, 'endX': 441, 'endY': 436, 'text': 'Status\n'}, {'startX': 308, 'startY': 411, 'endX': 392, 'endY': 418, 'text': '-183.00 US Dollar  (USD)\n'}, {'startX': 314, 'startY': 392, 'endX': 392, 'endY': 399, 'text': '13.56 US Dollar  (USD)\n'}, {'startX': 316, 'startY': 372, 'endX': 392, 'endY': 379, 'text': '-1.59 US Dollar  (USD)\n'}, {'startX': 319, 'startY': 353, 'endX': 392, 'endY': 360, 'text': '-.34 US Dollar  (USD)\n'}, {'startX': 38, 'startY': 333, 'endX': 159, 'endY': 340, 'text': 'current payment losses for the contract\n'}, {'startX': 312, 'startY': 333, 'endX': 392, 'endY': 340, 'text': '-52.00 US Dollar  (USD)\n'}, {'startX': 38, 'startY': 314, 'endX': 182, 'endY': 321, 'text': 'outstanding loss for the contract after retention\n'}, {'startX': 298, 'startY': 314, 'endX': 392, 'endY': 321, 'text': '-93,957.00 US Dollar  (USD)\n'}, {'startX': 419, 'startY': 314, 'endX': 459, 'endY': 321, 'text': 'informational\n'}, {'startX': 10, 'startY': 274, 'endX': 53, 'endY': 289, 'text': '3Brokerage\n'}, {'startX': 10, 'startY': 197, 'endX': 53, 'endY': 212, 'text': '4Territories\n'}, {'startX': 18, 'startY': 180, 'endX': 77, 'endY': 187, 'text': 'No detail to display\n'}, {'startX': 155, 'startY': 255, 'endX': 221, 'endY': 262, 'text': 'Percentage Basis\n'}, {'startX': 352, 'startY': 255, 'endX': 391, 'endY': 262, 'text': 'Description\n'}, {'startX': 161, 'startY': 237, 'endX': 250, 'endY': 244, 'text': '2.5000000 Gross Premium\n'}]
+
+
+==>27, 83, 1183, 172: Technical Account
+Willis Limited B080115865H17 / XOL QS Treaty [Received]
+==>27, 197, 866, 231: 1 Technical Account from Mark Browning [Mark_Browning@ajgre.com / +44 1473 207176]
+==>63, 267, 208, 286: Cedant / Insured
+==>297, 264, 536, 283: Arch Reinsurance Limited
+==>63, 308, 191, 328: Contract Name
+==>63, 353, 158, 372: Treaty FAC
+==>297, 308, 330, 328: N/A
+==>297, 353, 355, 372: Treaty
+==>855, 267, 922, 286: Created
+==>855, 308, 933, 328: Received
+==>855, 353, 891, 372: Due
+==>1088, 264, 1202, 283: 11 Aug 2022
+==>1088, 308, 1258, 328: 11 Aug 2022 23:07
+==>1088, 353, 1202, 372: 31 Aug 2022
+==>63, 397, 200, 417: Contract Nature
+==>297, 397, 411, 417: Proportional
+==>855, 397, 994, 417: Schema Version
+==>1088, 397, 1161, 417: 2016-10
+==>63, 442, 161, 461: Cover Type
+==>297, 442, 475, 461: Proportional Treaty
+==>855, 442, 988, 461: Contract Period
+==>1088, 442, 1327, 461: 01 Jan 2017 - 31 Dec 2017
+==>63, 486, 208, 506: Class of Business
+==>297, 483, 358, 503: Marine
+==>855, 486, 1038, 506: Underwriter Share %
+==>1088, 483, 1191, 503: 10.0000000
+==>63, 528, 211, 547: Transaction Type
+==>297, 528, 475, 547: Account Statement
+==>855, 528, 1005, 547: Broker Reference
+==>1088, 528, 1391, 547: 15865H17-000085TTY-669371632
+==>63, 572, 208, 592: Underwriter Year
+==>297, 572, 338, 592: 2017
+==>63, 617, 263, 636: Accounting Period Start
+==>297, 617, 405, 636: 01 Apr 2022
+==>63, 661, 255, 681: Accounting Period End
+==>297, 661, 405, 681: 30 Jun 2022
+==>855, 572, 1011, 592: Section Reference
+==>1088, 572, 1327, 592: Quota Share Reinsurance
+==>855, 617, 1061, 636: U/w Contract Reference
+==>1088, 617, 1227, 636: XOL QS Treaty
+==>855, 661, 958, 681: Underwriter
+==>1088, 661, 1436, 681: Seoul Guarantee Insurance Company
+==>855, 767, 925, 786: Address
+==>1088, 703, 1391, 722: DRI Enabled Please send Claims
+==>1088, 745, 1511, 764: Supporting Documents for Claims Settlement
+==>1088, 786, 1252, 806: only, to DRI Team
+==>1088, 828, 1302, 847: KOREA, REPUBLIC OF
+==>855, 892, 986, 911: Broker Address
+==>1088, 914, 1183, 933: KINGDOM
+==>1088, 872, 1483, 892: 51 Lime Street London EC3M 7DQ UNITED
+==>27, 997, 250, 1039: 2 Account Information
+==>63, 1075, 202, 1095: Balance Amount
+==>297, 1072, 408, 1092: -223.37 USD
+==>855, 1075, 1027, 1095: Amt Share Indicator
+==>1088, 1072, 1244, 1092: Receiver's share
+==>105, 1122, 213, 1142: Description
+==>105, 1172, 255, 1192: profit commission
+==>105, 1225, 180, 1245: premium
+==>105, 1281, 313, 1300: reinsurance commission
+==>105, 1333, 191, 1353: brokerage
+==>844, 1122, 1030, 1142: Amount Currency
+==>1163, 1122, 1225, 1142: Status
+==>855, 1172, 1088, 1192: -183.00 US Dollar  (USD)
+==>872, 1225, 1088, 1245: 13.56 US Dollar  (USD)
+==>877, 1281, 1088, 1300: -1.59 US Dollar  (USD)
+==>886, 1333, 1088, 1353: -.34 US Dollar  (USD)
+==>105, 1389, 441, 1408: current payment losses for the contract
+==>866, 1389, 1088, 1408: -52.00 US Dollar  (USD)
+==>105, 1442, 505, 1461: outstanding loss for the contract after retention
+==>827, 1442, 1088, 1461: -93,957.00 US Dollar  (USD)
+==>1163, 1442, 1275, 1461: informational
+==>27, 1531, 147, 1572: 3Brokerage
+==>27, 1745, 147, 1786: 4Territories
+==>50, 1814, 213, 1833: No detail to display
+==>430, 1606, 613, 1625: Percentage Basis
+==>977, 1606, 1086, 1625: Description
+==>447, 1656, 694, 1675: 2.5000000 Gross Premium
